@@ -13,6 +13,11 @@ JupyterLite nécessite un navigateur web moderne :
 - Firefox 90+
 - Chromium 89+
 
+### Binder (machine virtuelle)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pierrepo/intro-bioinfo-python-2024/HEAD?labpath=content)
+
+
 ## Licence
 
 <img src="img/logo_CC-BY-SA.png" align="right">
