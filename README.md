@@ -1,29 +1,20 @@
-# JupyterLite Demo
+# SDV - L1 - Introduction à la bioinformatique
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+## Programmation Python
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+![](img/logo_python.png)
 
-## ✨ Try it in your browser ✨
+### JupyterLite
 
-➡️ **https://jupyterlite.github.io/demo**
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://pierrepo.github.io/intro-bioinfo-python-2024/lab/index.html)
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
+JupyterLite nécessite un navigateur web moderne :
 
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+## Licence
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+<img src="img/logo_CC-BY-SA.png" align="right">
 
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+Ce contenu est mis à disposition selon les termes de la licence [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) (CC BY-SA 4.0). Consultez le fichier [LICENSE.txt](LICENSE.txt) pour plus de détails.
