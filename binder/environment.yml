@@ -4,6 +4,7 @@ channels:
     - conda-forge
 dependencies:
     - python=3.11
+    - pip
     - jupyterlab>=4
     - ipywidgets
     - numpy
@@ -13,3 +14,5 @@ dependencies:
     - matplotlib
     - biopython
     - nbdime
+    - pip:
+        - jupyterquiz
