@@ -29,7 +29,3 @@ ipyevents>=2.0.1
 ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
-
-
-# JupyterQuiz
-jupyterquiz
