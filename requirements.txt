@@ -10,9 +10,6 @@ jupyterlite-pyodide-kernel==0.2.3
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
 
-# JupyterLab: Fasta file renderer (optional)
-jupyterlab-fasta>=3.3.0,<4
-
 # JupyterLab: guided tour (optional)
 # TODO: re-enable after https://github.com/jupyterlab-contrib/jupyterlab-tour/issues/82
 # jupyterlab-tour
