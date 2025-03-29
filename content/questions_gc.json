@@ -23,7 +23,7 @@
     },
     {
         "question": "Combien vaut la température de fusion (Tm) que vous avez calculée, à un chiffre après la virgule ?",
-        "precision": 1,
+        "type": "numeric",
         "answers": [
             {
                 "type": "value",
